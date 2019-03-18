@@ -27,7 +27,7 @@ The first element of creating your website from a template is forking the templa
 
 **2. Next we will go to the settings page in our version of the forked repository in order to change the name of the repository. Change the name of the repository to _yourusername.github.io_. The name of this repository _must_ follow this format in order to render correctly.**
 
-![](../02-gh-settings.png)
+![](../fig/02-gh-settings.png)
 
 **3. Clone the repository to your local comupter to make personalized changes**
 
