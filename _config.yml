@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Version Control with Git"
+title: "Creating a Personal Website with Github Pages"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: emcdaniel@wisc.edu
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
