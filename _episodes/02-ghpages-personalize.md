@@ -1,5 +1,5 @@
 ---
-title: Personalizing the Jekyll Now Template
+title: Personalizing the Academic Pages Template
 teaching: 30
 exercises: 0
 questions:
